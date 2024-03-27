@@ -177,7 +177,7 @@ This section outlines the process of training the model for credit card transact
 
 * We identified the **Random Forest** algorithm as the best performing model based on the evaluation process.
  
-**Real-time Prediction Pipeline**
+## Real-time Prediction Pipeline
 
 This section details the real-time prediction pipeline for credit card transaction fraud detection, offering two user-friendly options for data ingestion and visualization:
 
